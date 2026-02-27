@@ -21,7 +21,7 @@ Target URL: https://www.facebook.com/r.php?entry_point=login
 
 ## What Is Implemented
 
-- Locate and fill:
+Locate and fill:
 - First Name
 - Surname
 - Date of Birth (Day, Month, Year dropdowns)
