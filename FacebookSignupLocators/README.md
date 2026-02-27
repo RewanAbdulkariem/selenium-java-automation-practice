@@ -5,47 +5,31 @@ Target URL: https://www.facebook.com/r.php?entry_point=login
 
 ## Technologies Used
 
-Java
-
-Selenium WebDriver
-
-TestNG
-
-Page Object Model (POM)
-
-Explicit Wait (WebDriverWait)
+- Java
+- Selenium WebDriver
+- TestNG
+- Page Object Model (POM)
+- Explicit Wait (WebDriverWait)
 
 ## Locator Strategies Used
 
-XPath (with advanced axes such as preceding-sibling and ancestor)
-
-CSS Selector
-
-Attribute-based selection
-
-Text-based XPath
-
-Dynamic XPath construction
+- XPath (with advanced axes such as preceding-sibling and ancestor)
+- CSS Selector
+- Attribute-based selection
+- Text-based XPath
+- Dynamic XPath construction
 
 ## What Is Implemented
 
-Locate and fill:
-
-First Name
-
-Surname
-
-Date of Birth (Day, Month, Year dropdowns)
-
-Gender
-
-Mobile Number
-
-Password
-
-Click Submit button
-
-Navigate to login page
+- Locate and fill:
+- First Name
+- Surname
+- Date of Birth (Day, Month, Year dropdowns)
+- Gender
+- Mobile Number
+- Password
+- Click Submit button
+- Navigate to login page
 
 ## Purpose
 
